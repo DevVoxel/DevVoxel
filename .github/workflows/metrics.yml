@@ -53,12 +53,9 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: My Portfolio
           plugin_screenshot_url: https://aidensmith.dev
-          
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 0
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 0
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198162616695
+
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
           repositories_forks: yes
