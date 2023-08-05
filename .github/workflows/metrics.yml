@@ -53,11 +53,7 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: My Portfolio
           plugin_screenshot_url: https://aidensmith.dev
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
+          
           plugin_steam: yes
           plugin_steam_achievements_limit: 0
           plugin_steam_games_limit: 1
