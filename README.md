@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Aiden Smith</h1>
-  <code>AKA Voxel.  A Full-Stack Web Developer.</code>
+  <code>A Full-Stack Web Developer.</code>
   <br />
   <br />
   <p>
